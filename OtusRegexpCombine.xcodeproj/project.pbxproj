@@ -13,6 +13,7 @@
 		E94DF7582481B80900EF9570 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E94DF7572481B80900EF9570 /* Assets.xcassets */; };
 		E94DF75B2481B80900EF9570 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E94DF75A2481B80900EF9570 /* Preview Assets.xcassets */; };
 		E94DF75E2481B80900EF9570 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E94DF75C2481B80900EF9570 /* LaunchScreen.storyboard */; };
+		E94DF7662481C1E300EF9570 /* Validation.swift in Sources */ = {isa = PBXBuildFile; fileRef = E94DF7652481C1E300EF9570 /* Validation.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		E94DF75A2481B80900EF9570 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		E94DF75D2481B80900EF9570 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E94DF75F2481B80900EF9570 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E94DF7652481C1E300EF9570 /* Validation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Validation.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				E94DF75C2481B80900EF9570 /* LaunchScreen.storyboard */,
 				E94DF75F2481B80900EF9570 /* Info.plist */,
 				E94DF7592481B80900EF9570 /* Preview Content */,
+				E94DF7652481C1E300EF9570 /* Validation.swift */,
 			);
 			path = OtusRegexpCombine;
 			sourceTree = "<group>";
@@ -148,6 +151,7 @@
 			files = (
 				E94DF7522481B80700EF9570 /* AppDelegate.swift in Sources */,
 				E94DF7542481B80700EF9570 /* SceneDelegate.swift in Sources */,
+				E94DF7662481C1E300EF9570 /* Validation.swift in Sources */,
 				E94DF7562481B80700EF9570 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
